@@ -8,7 +8,7 @@
 
 ✧･ﾟ: *✧･ﾟ:*  Coding  *:･ﾟ✧*:･ﾟ✧
 - Programming Languages:
-     - Expert: Python, JavaScript, Rust & Go
-     - Intermediate: Svelte
+     - Expert: Python, JavaScript & Go
+     - Intermediate: Svelte, Rust
 - Specialties: Reverse Engineering, Full-Stack Development
 - Environment: VSCode, Replit, Codespaces
