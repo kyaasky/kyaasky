@@ -3,7 +3,7 @@
 - Email: bio@fbi.ac
 
 ✧･ﾟ: *✧･ﾟ:*  Life  *:･ﾟ✧*:･ﾟ✧
-- Languages: English, Spanish, Russian & German
+- Languages: English, Spanish, Russian, Latin & German
 - Age: 16
 
 ✧･ﾟ: *✧･ﾟ:*  Coding  *:･ﾟ✧*:･ﾟ✧
@@ -12,3 +12,9 @@
      - Intermediate: (...)
 - Specialties: Reverse Engineering, Full-Stack Development
 - Environment: VSCode, Replit, Codespaces
+
+```
+Я схожу с ума, серьезно, я чувствую себя безумно.
+
+insanity.
+```
