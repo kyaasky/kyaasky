@@ -1,6 +1,6 @@
 ✧･ﾟ: *✧･ﾟ:*  Contact  *:･ﾟ✧*:･ﾟ✧
 - Discord: dancers.
-- Email: bio@fbi.ac
+- Email: bio@fbi.ac, slvtty@proton.me
 
 ✧･ﾟ: *✧･ﾟ:*  Life  *:･ﾟ✧*:･ﾟ✧
 - Languages: English, Spanish, Russian, Latin & German
