@@ -10,7 +10,7 @@
 - Programming Languages:
      - Expert: `Python`, `JavaScript`, `Svelte`, `Rust` & `Go`
      - Intermediate: (`...`)
-- Specialties: `Reverse Engineering`, Full-Stack Development`
+- Specialties: `Reverse Engineering`, `Full-Stack Development`
 - Environment: `VSCode`, `Replit`, `Codespaces`
 
 ```
