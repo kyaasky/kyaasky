@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/bio@fbi.ac-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://discordapp.com/users/1062461827583312012">
-    <img src="https://img.shields.io/badge/dancers.230-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/dancers.%230-%237289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
