@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="discord">
-    <img src="https://img.discord.dog/985235488262725732?font=poppins&customStatus=presence&backgroundColor=000000&bar1=000000&bar2=000000&backgroundColor2=000000&edgeRoundness=30&gradientOpacity=3" alt="Discord"/>
+    <img src="https://img.discord.dog/985235488262725732?font=poppins&customStatus=presence&backgroundColor=000000&bar1=000000&bar2=000000&backgroundColor2=000000&edgeRoundness=30&gradientOpacity=5" alt="Discord"/>
   </a>
 </p>
 
